@@ -53,3 +53,23 @@ This environment also supports the following actions:
 - take item (5)
 - drop item (6)
 - interact item (7)
+
+
+
+
+
+************************************************** 	updated by Wang Songli	*******************************************************
+It is the first version(not completed) of the game environment.
+what can be done :
+use keyboard WASD to control the human actor (represented with the green block)
+use keyboard J/K to pick up/drop items from the storage or on the ground
+the playground.grid stores all the information
+automatically checks the border and conflicts between objects
+
+next stage:
+apply button to control the storage
+apply the display of human direction (in current version, it's stored but not displayed)
+optimize agent control (Input)
+
+
+
